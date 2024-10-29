@@ -1,0 +1,192 @@
+# Bens translator Po file.
+# Copyright (C) 2009 Ben O'Sullivan.
+# Ben O'Sullivan <contact@benosullivan.co.uk>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bens-translator in italiano 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bens-translator\n"
+"POT-Creation-Date: 2009-11-18 15:34+0000\n"
+"PO-Revision-Date: 2009-11-20 14:10+0100\n"
+"Last-Translator: Gaianorm <gaianorm@gmail.com>\n"
+"Language-Team: Gaianorm | http://www.luxemozione.com/ <gaianorm@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: core/functions.php:1325
+msgid "Bens Translator - Options"
+msgstr "Bens Translator - Opzioni"
+
+#: core/functions.php:1325
+msgid "Bens Translator"
+msgstr ""
+
+#: core/functions.php:1547
+msgid "Y"
+msgstr ""
+
+#: core/functions.php:1548
+msgid "m"
+msgstr ""
+
+#: core/options-translator.php:388
+msgid "Donate"
+msgstr "Fai una donazione"
+
+#: core/options-translator.php:389
+msgid "If you like this plugin and find it useful, help keep this plugin free and actively developed by clicking the"
+msgstr "Se sei soddisfatto di questo plugin e lo trovi utile, aiutami a mantenerne attivo lo sviluppo. Clicca sul "
+
+#: core/options-translator.php:389
+msgid "donate"
+msgstr "bottone"
+
+#: core/options-translator.php:389
+msgid "button"
+msgstr "e fai una donazione"
+
+#: core/options-translator.php:454
+msgid "Base settings"
+msgstr "Impostazioni base"
+
+#: core/options-translator.php:456
+msgid "My Blog is written in"
+msgstr "Il  blog è scritto in"
+
+#: core/options-translator.php:477
+msgid "Choose which translations you want to make available for your visitors"
+msgstr "Scegli in quale lingua vuoi che i tuoi articoli vengano tradotti"
+
+#: core/options-translator.php:510
+msgid "Time between translation requests"
+msgstr "Intervallo di  richiesta di traduzione"
+
+#: core/options-translator.php:516
+msgid "This setting stops you getting banned from google translate default is 580, Time is in seconds"
+msgstr "Questa impostazione evita che tu venga bannato da google transate. Il valore di default è 580. Tempo in secondi"
+
+#: core/options-translator.php:526
+msgid "Enable cache compression"
+msgstr "Attiva la compressione della cache"
+
+#: core/options-translator.php:532
+msgid "this will strongly decrease the disk space but could give some problems on certain hosts). Disable this for plain text cache files."
+msgstr "questo ridurrà drasticamente lo spazio occupato su disco, ma potrebbe gerare qualche problema con alcuni Host. Disattivalo per mantenere i file di cache in formato di testo semplice"
+
+#: core/options-translator.php:541
+msgid "Schedule Cached pages for update after"
+msgstr "Programma l'aggiornamento delle pagine in chache dopo"
+
+#: core/options-translator.php:546
+msgid "day(s)"
+msgstr "giorno(i)"
+
+#: core/options-translator.php:548
+msgid "This allows cached pages to expire and to be re-cached, \"0\" means \"never\""
+msgstr "Qusto imposta una scadenza per le pagine in cache in modo che possano essere aggiornate, \"0\"significa\"mai\""
+
+#: core/options-translator.php:562
+msgid "Block \"bad\" web spiders and crawlers"
+msgstr "Blocca i \"bad\" web spider "
+
+#: core/options-translator.php:568
+msgid "This will check the header of the spider and will block many \"bad\" spiders from hammering your cache"
+msgstr "Questo controlla le caratteristiche dello spider e blocca l'accesso alla cache ai \"bad\" spider "
+
+#: core/options-translator.php:578
+#: core/options-translator.php:588
+msgid "Enable sitemap integration"
+msgstr "Attiva l'integrazione con la sitemap"
+
+#: core/options-translator.php:584
+msgid "This will add all your pages to your sitemap. I recommend not enabling this untill your cache is fully built"
+msgstr "Questo aggiunge tutte le  pagine alla tua sitemap. Si raccomanda  di non attivare questa funzione prima che la cache  sia stata completata."
+
+#: core/options-translator.php:591
+msgid "Google XML Sitemaps Generator, Not installed"
+msgstr "Google XML Sitemaps Generator, non installato"
+
+#: core/options-translator.php:592
+msgid "Please download, install and activate the"
+msgstr "Scarica, installa e attiva la"
+
+#: core/options-translator.php:594
+msgid "Google XML Sitemaps Generator for WordPress to enable this feature"
+msgstr "Google XML Sitemaps Generator per WordPress per attivare questa funzione"
+
+#: core/options-translator.php:603
+msgid "Enable Debug"
+msgstr "Attiva Debug"
+
+#: core/options-translator.php:609
+msgid " file, which will be saved in the following directory:"
+msgstr "file,  sarà salvato nella seguente directory:"
+
+#: core/options-translator.php:619
+msgid "Enclose the flags(links) inside a"
+msgstr "Racchiudi le bandierine(links) tra"
+
+#: core/options-translator.php:632
+msgid "Changes the encapsulation code you want to use for your flag bar. This will allow for validation and CSS styling"
+msgstr "Modifica il codice  che racchiude  la barra delle bandierine. Questo renderà possibie la validazione e la personalizzazione con file CSS"
+
+#: core/options-translator.php:641
+msgid "Show language links as"
+msgstr "Mostra i link della lingua come"
+
+#: core/options-translator.php:654
+msgid "Chooses whether you want the links in the translation bar to be plain text or flags"
+msgstr "Scegli come desideri che vengano mostrati i link nella barra di traduzione, come testo semplice o bandierine"
+
+#: core/options-translator.php:662
+msgid "Show how many flags per row (table)"
+msgstr "Qante bendierine desideri mostrare per riga (TABLE)"
+
+#: core/options-translator.php:668
+msgid "This changes how many flags are shown per line TABLE only. For DIVs you need to CSS it."
+msgstr "Questo modifica il numero di bandierine che verrano mostrate per linea (solo TABLE). Per DIV è necessario creare un file CSS"
+
+#: core/options-translator.php:677
+msgid "Enable Translation Visitor Warning"
+msgstr "Attiva l'avviso di traduzione per i visitatori"
+
+#: core/options-translator.php:683
+msgid "This enables a warning bar to be displayed to visitors showing them that the page is translated"
+msgstr "Questo attiva un messaggio che avverte i visitatori che la pagina che stanno visitando è stata tradotta."
+
+#: core/options-translator.php:712
+msgid "Estimated total of pages to translate:"
+msgstr "Stima delle pagine da tradurre"
+
+#: core/options-translator.php:713
+msgid "Your cache directory currently contains"
+msgstr "La tua directory di cache  al momento contiene:"
+
+#: core/options-translator.php:713
+msgid "successfully translated and cached pages."
+msgstr "pagine tradotte con successo"
+
+#: core/options-translator.php:714
+msgid "Cache directory size"
+msgstr "Dimensione della directory di cache"
+
+#: core/options-translator.php:715
+msgid "Your stale directory currently contains"
+msgstr "La directory Stale al momento contiene:"
+
+#: core/options-translator.php:715
+msgid "successfully translated and cached pages waiting for a new translation."
+msgstr "pagine di chache tradotte in maniera corretta in attesa di una nuova traduzione"
+
+#: core/options-translator.php:716
+msgid "Stale directory size"
+msgstr "Dimensione della directory Stale"
+
+#: core/options-translator.php:763
+msgid "Update options"
+msgstr "Aggiorna le opzioni"
+

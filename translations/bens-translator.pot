@@ -1,0 +1,315 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bens-translator\n"
+"POT-Creation-Date: 2010-03-02 10:06+0000\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: core/bentr-cacheman.php:7 core/bentr-cacheman.php:57
+#: core/bentr-cacheman.php:81
+msgid "Cache Download"
+msgstr ""
+
+#: core/bentr-cacheman.php:12
+msgid "You may need"
+msgstr ""
+
+#: core/bentr-cacheman.php:12
+msgid "7ZIP"
+msgstr ""
+
+#: core/bentr-cacheman.php:22
+msgid "Cache Delete"
+msgstr ""
+
+#: core/bentr-cacheman.php:26
+msgid "Are you Sure? This will"
+msgstr ""
+
+#: core/bentr-cacheman.php:26
+msgid "delete all cached pages"
+msgstr ""
+
+#: core/bentr-cacheman.php:60
+msgid "Cache has been deleted"
+msgstr ""
+
+#: core/bentr-cacheman.php:67
+msgid "Cache Flush"
+msgstr ""
+
+#: core/bentr-cacheman.php:71
+msgid "Are you Sure? This will delete all expired cached pages"
+msgstr ""
+
+#: core/bentr-cacheman.php:84
+msgid "Cache has been Flushed"
+msgstr ""
+
+#: core/bentr-cacheman.php:90
+msgid "Cache Managenent"
+msgstr ""
+
+#: core/bentr-cacheman.php:91
+msgid "This page provides management options for your cache"
+msgstr ""
+
+#: core/bentr-cacheman.php:95
+msgid "Backup"
+msgstr ""
+
+#: core/bentr-cacheman.php:101
+msgid "Delete Cache"
+msgstr ""
+
+#: core/bentr-cacheman.php:107
+msgid "Flush Expired Pages"
+msgstr ""
+
+#: core/bentr-translated.php:31
+msgid "Posts per Page"
+msgstr ""
+
+#: core/bentr-translated.php:42
+msgid "Posts/pages"
+msgstr ""
+
+#: core/bentr-translated.php:43
+msgid "Categories"
+msgstr ""
+
+#: core/bentr-translated.php:44
+msgid "Tags"
+msgstr ""
+
+#: core/bentr-translated.php:49
+msgid "Name"
+msgstr ""
+
+#: core/bentr-translated.php:50
+msgid "Date"
+msgstr ""
+
+#: core/bentr-translated.php:58
+msgid "Please wait. Data is loading..."
+msgstr ""
+
+#: core/bentr-translated.php:63
+msgid "Page"
+msgstr ""
+
+#: core/bentr-translated.php:236
+msgid "Sucessfully Cached "
+msgstr ""
+
+#: core/bentr-translated.php:241
+msgid "In Stale Cache"
+msgstr ""
+
+#: core/bentr-translated.php:246
+msgid "Not Cached "
+msgstr ""
+
+#: core/functions.php:1549
+msgid "Y"
+msgstr ""
+
+#: core/functions.php:1550
+msgid "m"
+msgstr ""
+
+#: core/options-translator.php:391
+msgid "Donate"
+msgstr ""
+
+#: core/options-translator.php:392
+msgid ""
+"If you like this plugin and find it useful, help keep this plugin free and "
+"actively developed by clicking the"
+msgstr ""
+
+#: core/options-translator.php:392
+msgid "donate"
+msgstr ""
+
+#: core/options-translator.php:392
+msgid "button"
+msgstr ""
+
+#: core/options-translator.php:470
+msgid "Base settings"
+msgstr ""
+
+#: core/options-translator.php:472
+msgid "My Blog is written in"
+msgstr ""
+
+#: core/options-translator.php:493
+msgid "Choose which translations you want to make available for your visitors"
+msgstr ""
+
+#: core/options-translator.php:526
+msgid "Time between translation requests"
+msgstr ""
+
+#: core/options-translator.php:532
+msgid ""
+"This setting stops you getting banned from google translate default is 580, "
+"Time is in seconds"
+msgstr ""
+
+#: core/options-translator.php:542
+msgid "Enable cache compression"
+msgstr ""
+
+#: core/options-translator.php:548
+msgid ""
+"this will strongly decrease the disk space but could give some problems on "
+"certain hosts). Disable this for plain text cache files."
+msgstr ""
+
+#: core/options-translator.php:557
+msgid "Schedule Cached pages for update after"
+msgstr ""
+
+#: core/options-translator.php:562
+msgid "day(s)"
+msgstr ""
+
+#: core/options-translator.php:564
+msgid ""
+"This allows cached pages to expire and to be re-cached, \"0\" means \"never\""
+msgstr ""
+
+#: core/options-translator.php:578
+msgid "Block \"bad\" web spiders and crawlers"
+msgstr ""
+
+#: core/options-translator.php:584
+msgid ""
+"This will check the header of the spider and will block many \"bad\" spiders "
+"from hammering your cache"
+msgstr ""
+
+#: core/options-translator.php:594 core/options-translator.php:604
+msgid "Enable sitemap integration"
+msgstr ""
+
+#: core/options-translator.php:600
+msgid ""
+"This will add all your pages to your sitemap. I recommend not enabling this "
+"untill your cache is fully built"
+msgstr ""
+
+#: core/options-translator.php:607
+msgid "Google XML Sitemaps Generator, Not installed"
+msgstr ""
+
+#: core/options-translator.php:608
+msgid "Please download, install and activate the"
+msgstr ""
+
+#: core/options-translator.php:610
+msgid "Google XML Sitemaps Generator for WordPress to enable this feature"
+msgstr ""
+
+#: core/options-translator.php:619
+msgid "Enable Debug"
+msgstr ""
+
+#: core/options-translator.php:625
+msgid " file, which will be saved in the following directory:"
+msgstr ""
+
+#: core/options-translator.php:635
+msgid "Enclose the flags(links) inside a"
+msgstr ""
+
+#: core/options-translator.php:648
+msgid ""
+"Changes the encapsulation code you want to use for your flag bar. This will "
+"allow for validation and CSS styling"
+msgstr ""
+
+#: core/options-translator.php:657
+msgid "Show language links as"
+msgstr ""
+
+#: core/options-translator.php:670
+msgid ""
+"Chooses whether you want the links in the translation bar to be plain text "
+"or flags"
+msgstr ""
+
+#: core/options-translator.php:678
+msgid "Show how many flags per row (table)"
+msgstr ""
+
+#: core/options-translator.php:684
+msgid ""
+"This changes how many flags are shown per line TABLE only. For DIVs you need "
+"to CSS it."
+msgstr ""
+
+#: core/options-translator.php:693
+msgid "Enable Translation Visitor Warning"
+msgstr ""
+
+#: core/options-translator.php:699
+msgid ""
+"This enables a warning bar to be displayed to visitors showing them that the "
+"page is translated"
+msgstr ""
+
+#: core/options-translator.php:708
+msgid "Enable Validation Engine (BETA)"
+msgstr ""
+
+#: core/options-translator.php:714
+msgid ""
+"This enables a Validation engine to fix errors in html tags and will try to "
+"validate the page. Please disable if you are having strange outputs"
+msgstr ""
+
+#: core/options-translator.php:747
+msgid "Estimated total of pages to translate:"
+msgstr ""
+
+#: core/options-translator.php:748
+msgid "Your cache directory currently contains"
+msgstr ""
+
+#: core/options-translator.php:748
+msgid "successfully translated and cached pages."
+msgstr ""
+
+#: core/options-translator.php:749
+msgid "Cache directory size"
+msgstr ""
+
+#: core/options-translator.php:750
+msgid "Your stale directory currently contains"
+msgstr ""
+
+#: core/options-translator.php:750
+msgid "successfully translated and cached pages waiting for a new translation."
+msgstr ""
+
+#: core/options-translator.php:751
+msgid "Stale directory size"
+msgstr ""
+
+#: core/options-translator.php:798
+msgid "Update options"
+msgstr ""
